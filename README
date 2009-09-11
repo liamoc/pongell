@@ -1,0 +1,22 @@
+Pongell
+-------
+
+A crappy pong clone written in haskell, released into public 
+domain by me, Liam O'Connor-Davis (kamatsu).
+
+This game was written primarily as a proof of concept that
+you can write games in haskell, and yes, it is nice, just 
+like everything else is nice in haskell, because haskell
+is awesome.
+
+Seeing as there were some saying to the contrary in 
+reddit, I thought I'd give it a go.
+
+The code is completely uncommented, but fits in 127 lines,
+which is neat compared to virtually every other language
+(dynamic languages may get similar size, but haskell is
+faster than them)
+
+Controls are up for up and down for down. The ball will
+speed up every 1000 frames so watch out.
+
